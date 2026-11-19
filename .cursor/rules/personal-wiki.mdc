@@ -1,0 +1,17 @@
+---
+description: Personal wiki scope — life/non-work only; keep this tree self-contained
+alwaysApply: true
+---
+
+# Personal wiki (this folder)
+
+This repo is standalone and personal:
+
+- Treat all content as **life / non-work**. Work-adjacent items (resume, work history, career notes, some co-worker notes) are allowed; day-to-day work records belong in the separate work wiki.
+- Add or edit files only inside this repo.
+- Create subfolders (`people/`, `projects/`, `meetings/`, `reference/`, etc.) when useful.
+- Do not require paths outside this repo for personal notes to make sense.
+- `Personal Inbox/` is the personal drop zone: file its contents and move the sources out in the same turn (ask before deleting).
+- Watch history: `media/watch-history.json` (schema in `media/README.md`).
+- To-dos live in `todos/open.md` and `todos/archive.md`. New ids: `Pers-###`.
+- Full rules: `ai-guidance/repository-rules.md`.
