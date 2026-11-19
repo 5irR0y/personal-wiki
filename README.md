@@ -19,6 +19,7 @@ Clone it anywhere and open it in Claude Code or Cursor. `CLAUDE.md` loads the op
 | `todos/` | Life to-dos and archive ([conventions](todos/README.md)) |
 | `projects/` | Active life projects (trips, plans, career search) |
 | `projects/archive/` | Closed life projects, kept as reference for next time |
+| `reference/` | Standing reference notes ([important dates](reference/important-dates.md)) |
 | `media/` | Movie / TV watch history ([media/README.md](media/README.md)) |
 | `ai-guidance/` | Rules for AI when operating on this wiki |
 | `.cursor/rules/` | Cursor always-apply rules |
